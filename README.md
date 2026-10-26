@@ -47,9 +47,7 @@ This package collects the analysis code used or specified for the current disagr
 
 ## TOMATS note
 
-The workbook used in the paper contains 1,677 textual units. If the worksheet import includes non-item/header/material rows, remove them **before analysis** using the row-filter hook supplied in each TOMATS script.
-
-`none` is treated as "no primary/slot emotion selected", not as a global no-emotion judgment. This matches the clarification that A3 sometimes entered `none` in Emotion1 when only a weaker secondary emotion was present, while still recording that secondary/tertiary emotion in later slots. Valid Emotion2/Emotion3 labels are therefore retained.
+`none` is treated as "no primary/slot emotion selected", not as a global no-emotion judgment. 
 
 ## GoEmotions note
 
