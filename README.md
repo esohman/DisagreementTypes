@@ -31,14 +31,15 @@ scripts/
     05_goemotions_diagnostics.py
     06_goemotions_split_half_reliability.py
     07_goemotions_pair_permutation.py
-    08_make_figures.py
+    08_goemotions_soft_targets.py
+    09_make_figures.py
 
 outputs/
     manuscript_summary_tables/
     figures/
 ```
 
-Scripts `01`--`07` are the paper-analysis scripts already maintained in the main repository. This package adds the repository documentation, licensing files, an execution wrapper, and a figure-generation scaffold.
+Scripts `01`--`08` are the paper-analysis scripts already maintained in the main repository. This package adds the repository documentation, licensing files, an execution wrapper, and a figure-generation scaffold.
 
 ## Reproducing the analyses
 
@@ -72,7 +73,7 @@ The individual scripts may also be run separately.
 - `05_goemotions_diagnostics.py`: item-adjusted label cardinality; restrictive/expansive response style; pair-specific merge tendency; residualized pair-specific boundary behavior; `example_very_unclear` rates.
 - `06_goemotions_split_half_reliability.py`: repeated split-half reliability of GoEmotions item-adjusted label cardinality.
 - `07_goemotions_pair_permutation.py`: optional permutation null for pair-specific residual spread.
-- `08_make_figures.py`: final publication-style figures.
+- `09_make_figures.py`: final publication-style figures.
 
 ## Data redistribution
 
