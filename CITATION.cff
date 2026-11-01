@@ -11,7 +11,7 @@ authors:
     given-names: "Eugenia"
 year: 2026
 license: MIT
-repository-code: "[repository URL]"
+repository-code: "https://github.com/esohman/DisagreementTypes/"
 preferred-citation:
   type: article
   title: "The Structure of Disagreement in Emotion Annotation"
@@ -23,4 +23,4 @@ preferred-citation:
     - family-names: "Diegoli"
       given-names: "Eugenia"
   year: 2026
-  journal: "Computational Linguistics"
+
