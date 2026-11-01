@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated paper."
+title: "The Structure of Disagreement in Emotion Annotation: Reproducibility Materials"
+type: software
+authors:
+  - family-names: "Öhman"
+    given-names: "Emily"
+  - family-names: "Koufakou"
+    given-names: "Anna"
+  - family-names: "Diegoli"
+    given-names: "Eugenia"
+year: 2026
+license: MIT
+repository-code: "[repository URL]"
+preferred-citation:
+  type: article
+  title: "The Structure of Disagreement in Emotion Annotation"
+  authors:
+    - family-names: "Öhman"
+      given-names: "Emily"
+    - family-names: "Koufakou"
+      given-names: "Anna"
+    - family-names: "Diegoli"
+      given-names: "Eugenia"
+  year: 2026
+  journal: "Computational Linguistics"
